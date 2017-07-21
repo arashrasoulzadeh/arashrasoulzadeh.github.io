@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/arashrasoulzadeh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.meetarash.ir
+  * I am arashrasoulzadeh (https://keybase.io/arashrasoulzadeh) on keybase.
+  * I have a public key with fingerprint 3D13 C992 8613 EF60 2570  DE44 2A0F A338 ED97 3F1F
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01016020d9ec10603bf092c4ab7e5f41d53017e7fe0d776e4a8a6d10fdfafb39bfc80a",
+      "fingerprint": "3d13c9928613ef602570de442a0fa338ed973f1f",
+      "host": "keybase.io",
+      "key_id": "2a0fa338ed973f1f",
+      "kid": "01016020d9ec10603bf092c4ab7e5f41d53017e7fe0d776e4a8a6d10fdfafb39bfc80a",
+      "uid": "ee0f8e898b0eb03228699f09728f9019",
+      "username": "arashrasoulzadeh"
+    },
+    "service": {
+      "hostname": "www.meetarash.ir",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1598434070,
+  "expire_in": 157680000,
+  "prev": "281c5f2b7a7af18c9e7f072ace5e5f53ded9e89687eccb6d2c85829247cc6565",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMI2AnicrVJbSBRRGN41c2m7IrSED0rDRhdXOzOzc9uikELKpAsoUZnLmZlzdqdd
+Z7aZ2VULU4suG4lkWGESCEVFdIG0sAt2v1IvXSjCIJCkBzXpTpSdWeqtxw4cDuf8
+3/f93/9xbk8e5/K605JnOPZyp9f96MaxpCtcWujbSsmGWk+FtlIxlDlQXEWWHY5p
+KhWiAA1oHjBAlZBCAx6wMgYSowShLCAOB2mVYwEtIAEjoAoCj4JQhLxKA6xiiGVW
+krEiAkgFKKzpEWQmTE23iSyr0qwiSYzI0yzCpAEnABUFgwwEGLKsiFRJYDGNCTFq
+WA6DmJOhhYo1g7yRSzhj7x/4/+w7mZFDCGARiZIoAyQDliHGJYkoCoyIJUBLDtBC
+pg5rEEFDE1pRso1kfAtUUZRqCFCkmtIU5ATsTPQHWVtbW1yDkJ1hFGsm0UmYhm0o
+RpxUo7adsEIO265PZOBIDv8RCsuarpJMCSOFTEszdCpEE6Ria44yzUlikA0CAQQo
+VJfQTBTWHAQn8CIgy+mDUk6CIq1wmJEFKEBMi4pEMgECAxXEkaA4ViXRksF5UUCK
+IvMqo4icyEhMUFAUnuM5yhlts25QIYaI2jBCNC0tokM7aSKq4eb1qmyX2+vKGZ/l
+fDaXd8K0v1/wdodnrPEhfXZ8Qj4ytH5s/Ug6p/Ve/+ttWdzBeb/Ou5u06V5x7s8p
+5fjIu1djsrLo6fa+ygMFHm3dxI+blsSZHbfWNQ1qZe4Had/+6yUTNqY6m1s8v0rj
+bZeW6Z/mx/JLD+1d7Fo7tDbfv6/DNXitcfTF2RlrOgpm9ZUdLmx9fLSoOfB5VXX3
+8vfPfLundFe1r/Cfyp1bVNw59cpw+ddkrP3gvfs9q1cWqOdPt026UFQy2rOnYtvr
+vYmGgRQLciqf1I3MuLxn4bPO/g3prMK3XbnLvqVaTt7t+l598Uyvb5f/i+f5HT1v
+S71/JLf3xAD3IXv21UjF0tal/LkDeffPzTw+8qNtzpsFAx2/AeaYQhY=
+=We3D
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/arashrasoulzadeh
+
+==================================================================
