@@ -1,1 +1,14 @@
 theme: jekyll-theme-cayman
+title: Arash Rasoulzadeh
+description: CEO at Takhfif Bazaar and senior software engineer at Snapp.Market. Backend, platform, DevOps, and AI-focused projects.
+url: https://meetarash.ir
+lang: en
+author:
+  name: Arash Rasoulzadeh
+  email: arashrasoulzadeh@gmail.com
+social:
+  name: Arash Rasoulzadeh
+  links:
+    - https://github.com/arashrasoulzadeh
+    - https://youtube.com/c/ArashRasoulzadeh
+    - https://instagram.com/arash.rasoulzadeh/
